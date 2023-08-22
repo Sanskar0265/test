@@ -1,5 +1,1 @@
-{{#user}}
-Name: Sanskar Singh  
-Skills: HTML, CSS, JS, JAVA, SQL
-Email: rajputsanskar0265@gmail.com
-{{/user}}
+
